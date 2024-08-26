@@ -1,0 +1,12 @@
+project:
+  type: website
+
+website: 
+  sidebar: 
+    contents: 
+      - text: "Front Matter"
+        href: "index.qmd"
+      - section: "Part I"
+
+
+

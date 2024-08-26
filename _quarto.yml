@@ -1,0 +1,14 @@
+project:
+  type: book
+
+book: 
+  chapters: 
+    - index.qmd
+  sidebar: 
+    contents: 
+      - text: "Front Matter"
+        href: "index.qmd"
+      - section: "Part I"
+
+
+
